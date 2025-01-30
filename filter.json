@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "TERM_MATCH",
+    "Field": "regionCode",
+    "Value": "ap-southeast-1"
+  },
+  {
+    "Type": "TERM_MATCH",
+    "Field": "productFamily",
+    "Value": "Database Storage"
+  },
+  {
+    "Type": "TERM_MATCH",
+    "Field": "volumeType",
+    "Value": "IO Optimized-Aurora"
+  },
+  {
+    "Type": "TERM_MATCH",
+    "Field": "databaseEngine",
+    "Value": "Aurora PostgreSQL"
+  }
+]

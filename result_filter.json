@@ -1,0 +1,6 @@
+{
+    "PriceList": [
+        "{\"product\":{\"productFamily\":\"Database Storage\",\"attributes\":{\"volumeType\":\"IO Optimized-Aurora\",\"engineCode\":\"21\",\"usagetype\":\"APS1-Aurora:IO-OptimizedStorageUsage\",\"locationType\":\"AWS Region\",\"maxVolumeSize\":\"128 TB\",\"databaseEngine\":\"Aurora PostgreSQL\",\"storageMedia\":\"SSD\",\"regionCode\":\"ap-southeast-1\",\"servicecode\":\"AmazonRDS\",\"deploymentOption\":\"Single-AZ\",\"location\":\"Asia Pacific (Singapore)\",\"servicename\":\"Amazon Relational Database Service\",\"operation\":\"CreateDBInstance:0021\",\"minVolumeSize\":\"10 GB\"},\"sku\":\"CF7X3K4CXBFEHX5V\"},\"serviceCode\":\"AmazonRDS\",\"terms\":{\"OnDemand\":{\"CF7X3K4CXBFEHX5V.JRTCKXETXF\":{\"priceDimensions\":{\"CF7X3K4CXBFEHX5V.JRTCKXETXF.6YS6EN2CT7\":{\"unit\":\"GB-Mo\",\"endRange\":\"Inf\",\"description\":\"USD 0.248 per GB-month of I/O-Optimized consumed storage (Aurora PostgreSQL)\",\"appliesTo\":[],\"rateCode\":\"CF7X3K4CXBFEHX5V.JRTCKXETXF.6YS6EN2CT7\",\"beginRange\":\"0\",\"pricePerUnit\":{\"USD\":\"0.2480000000\"}}},\"sku\":\"CF7X3K4CXBFEHX5V\",\"effectiveDate\":\"2025-01-01T00:00:00Z\",\"offerTermCode\":\"JRTCKXETXF\",\"termAttributes\":{}}}},\"version\":\"20250121193606\",\"publicationDate\":\"2025-01-21T19:36:06Z\"}"
+    ],
+    "FormatVersion": "aws_v1"
+}
