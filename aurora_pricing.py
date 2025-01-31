@@ -64,7 +64,15 @@ class AWSAuroraPricing:
                 {"Type": "TERM_MATCH", "Field": "databaseEngine", "Value": self.database_engine}
             ]
         elif self.billing_type == 'IOUsage':
-            if self.database_engine == "Aurora MySQL":
+            if self.region in ("ap-northeast-3", "sa-east-1") and self.database_engine == "Aurora MySQL":
+                filter_data = [
+                    {"Type": "TERM_MATCH", "Field": "regionCode", "Value": self.region},
+                    {"Type": "TERM_MATCH", "Field": "productFamily", "Value": "System Operation"},
+                    {"Type": "TERM_MATCH", "Field": "groupDescription", "Value": "Input/Output Operation"},
+                    {"Type": "TERM_MATCH", "Field": "group", "Value": "Aurora I/O Operation"},
+                    {"Type": "TERM_MATCH", "Field": "databaseEngine", "Value": "Aurora MySQL"}
+                ]
+            elif self.database_engine == "Aurora MySQL":
                 filter_data = [
                     {"Type": "TERM_MATCH", "Field": "regionCode", "Value": self.region},
                     {"Type": "TERM_MATCH", "Field": "productFamily", "Value": "System Operation"},
@@ -87,35 +95,6 @@ class AWSAuroraPricing:
 
 
     def extract_pricing_info(self, pricing_data):        
-#        """AWS JSON 데이터에서 가격 정보 추출"""
-#        try:
-#            unit = ''
-#            price_per_unit = ''
-#            
-#            #print(pricing_data["PriceList"][0])
-#            
-#            # PriceList가 문자열로 감싸져 있는 경우 JSON 변환
-#            price_list = json.loads(pricing_data["PriceList"][0])
-#            
-#            # OnDemand 가격 정보 가져오기 (동적으로 키 탐색)
-#            on_demand_terms = price_list["terms"]["OnDemand"]
-#            on_demand_key = next(iter(on_demand_terms))  # 첫 번째 키 찾기
-#
-#            price_dimensions = on_demand_terms[on_demand_key]["priceDimensions"]
-#            price_dimension_key = next(iter(price_dimensions))  # 첫 번째 키 찾기
-#            
-#            unit = price_dimensions[price_dimension_key]["unit"]
-#            price_per_unit = price_dimensions[price_dimension_key]["pricePerUnit"]["USD"]
-#
-#            return {
-#                "unit": unit,
-#                "price_per_unit": price_per_unit
-#            }
-#
-#        except (KeyError, IndexError, json.JSONDecodeError) as e:
-#            print(f"[-] JSON 파싱 오류: {e}")
-#            return None
-
         """AWS JSON 데이터에서 가격 정보 추출 (Preview 항목 제외)"""
         try:
             unit = ''
@@ -160,7 +139,6 @@ class AWSAuroraPricing:
         pricing_result = []
         
         if self.model == "Standard":
-                                         
             try:
                 #빌링 타입별 필터조건 생성
                 #빌링 타입 : Instance
