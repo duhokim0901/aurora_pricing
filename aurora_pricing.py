@@ -35,13 +35,20 @@ class AWSAuroraPricing:
                 {"Type": "TERM_MATCH", "Field": "storage", "Value": self.storage}
             ]
         elif self.billing_type == 'EBSVoulme':
-            if self.database_engine == "Aurora MySQL":
+            if self.region in ("ap-northeast-3", "sa-east-1") and self.database_engine == "Aurora MySQL":
+                filter_data = [
+                    {"Type": "TERM_MATCH", "Field": "regionCode", "Value": self.region},
+                    {"Type": "TERM_MATCH", "Field": "productFamily", "Value": "Database Storage"},
+                    {"Type": "TERM_MATCH", "Field": "volumeType", "Value": self.volume_type},
+                    {"Type": "TERM_MATCH", "Field": "databaseEngine", "Value": self.database_engine}
+                ]            
+            elif self.database_engine == "Aurora MySQL":
                 filter_data = [
                     {"Type": "TERM_MATCH", "Field": "regionCode", "Value": self.region},
                     {"Type": "TERM_MATCH", "Field": "productFamily", "Value": "Database Storage"},
                     {"Type": "TERM_MATCH", "Field": "volumeType", "Value": self.volume_type},
                     {"Type": "TERM_MATCH", "Field": "databaseEngine", "Value": "Any"}
-                ]
+                ]                
             else :
                 filter_data = [
                     {"Type": "TERM_MATCH", "Field": "regionCode", "Value": self.region},
