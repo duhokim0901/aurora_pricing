@@ -135,6 +135,9 @@ class AWSAuroraPricing:
                 pricing_data = json.loads(result.stdout)
                 extract_pricing_data = self.extract_pricing_info(pricing_data)
                 
+                if extract_pricing_data is None:
+                    extract_pricing_data = {"unit": "N/A", "price_per_unit": "N/A"} #기본값 설정
+
                 result_dict = { "database_engine" : self.database_engine,
                                "region" : self.region,
                                "instance_type" : self.instance_type,
@@ -165,7 +168,10 @@ class AWSAuroraPricing:
 
                 pricing_data = json.loads(result.stdout)
                 extract_pricing_data = self.extract_pricing_info(pricing_data)
-                
+
+                if extract_pricing_data is None:
+                    extract_pricing_data = {"unit": "N/A", "price_per_unit": "N/A"} #기본값 설정
+
                 result_dict = { "database_engine" : self.database_engine,
                                "region" : self.region,
                                "instance_type" : self.instance_type,
@@ -196,7 +202,10 @@ class AWSAuroraPricing:
 
                 pricing_data = json.loads(result.stdout)
                 extract_pricing_data = self.extract_pricing_info(pricing_data)
-                
+
+                if extract_pricing_data is None:
+                    extract_pricing_data = {"unit": "N/A", "price_per_unit": "N/A"} #기본값 설정
+
                 result_dict = { "database_engine" : self.database_engine,
                                "region" : self.region,
                                "instance_type" : self.instance_type,
@@ -234,7 +243,10 @@ class AWSAuroraPricing:
 
                 pricing_data = json.loads(result.stdout)
                 extract_pricing_data = self.extract_pricing_info(pricing_data)
-                
+
+                if extract_pricing_data is None:
+                    extract_pricing_data = {"unit": "N/A", "price_per_unit": "N/A"} #기본값 설정
+
                 result_dict = { "database_engine" : self.database_engine,
                                "region" : self.region,
                                "instance_type" : self.instance_type,
@@ -263,7 +275,10 @@ class AWSAuroraPricing:
 
                 pricing_data = json.loads(result.stdout)
                 extract_pricing_data = self.extract_pricing_info(pricing_data)
-                
+
+                if extract_pricing_data is None:
+                    extract_pricing_data = {"unit": "N/A", "price_per_unit": "N/A"} #기본값 설정
+
                 result_dict = { "database_engine" : self.database_engine,
                                "region" : self.region,
                                "instance_type" : self.instance_type,
@@ -285,10 +300,10 @@ class AWSAuroraPricing:
     
 
 if __name__ == "__main__":
-    region = "ap-northeast-2" #ap-northeast-2 / ap-northeast-1 / us-east-1
+    region = "ap-south-2" #ap-northeast-2 / ap-northeast-1 / us-east-1
     instance_type = "db.r6i.32xlarge"  
-    database_engine = "Aurora MySQL" #Aurora MySQL / Aurora PostgreSQL
-    model = "IOOptimized" #Standard / IOOptimized
+    database_engine = "Aurora PostgreSQL" #Aurora MySQL / Aurora PostgreSQL
+    model = "Standard" #Standard / IOOptimized
     
     aurora_pricing = AWSAuroraPricing(database_engine=database_engine, region=region, instance_type=instance_type, model=model)
     pricing_data = aurora_pricing.get_aurora_pricing()
