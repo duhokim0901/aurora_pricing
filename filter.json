@@ -2,7 +2,7 @@
   {
     "Type": "TERM_MATCH",
     "Field": "regionCode",
-    "Value": "ap-southeast-1"
+    "Value": "ap-northeast-3"
   },
   {
     "Type": "TERM_MATCH",

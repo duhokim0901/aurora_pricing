@@ -18,7 +18,9 @@ instance_types = [
     "db.r5.24xlarge","db.r6i.large","db.r6i.xlarge","db.r6i.2xlarge","db.r6i.4xlarge","db.r6i.8xlarge",
     "db.r6i.12xlarge","db.r6i.16xlarge","db.r6i.24xlarge","db.r6i.32xlarge","db.r6g.large","db.r6g.xlarge",
     "db.r6g.2xlarge","db.r6g.4xlarge","db.r6g.8xlarge","db.r6g.12xlarge","db.r6g.16xlarge","db.r7g.large",
-    "db.r7g.xlarge","db.r7g.2xlarge","db.r7g.4xlarge","db.r7g.8xlarge","db.r7g.12xlarge","db.r7g.16xlarge"
+    "db.r7g.xlarge","db.r7g.2xlarge","db.r7g.4xlarge","db.r7g.8xlarge","db.r7g.12xlarge","db.r7g.16xlarge",
+    "db.r7i.large","db.r7i.xlarge","db.r7i.2xlarge","db.r7i.4xlarge","db.r7i.8xlarge","db.r7i.12xlarge","db.r7i.16xlarge",
+    
 ]
 database_engines = ["Aurora MySQL", "Aurora PostgreSQL"]
 models = ["Standard", "IOOptimized"]
