@@ -4,4859 +4,4859 @@
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-1",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-2",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r7g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6g.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r6i.32xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t3.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.4xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.8xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.12xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.16xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "r5.24xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.nano",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.micro",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.small",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.medium",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.large",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora MySQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "Standard",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.1200000000",
-        "IOUsage(IOs)": "0.0000002400"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.12,
+        "IOUsage(IOs)": 2.4e-07
     },
     {
         "Region": "ap-northeast-3",
         "Instance Type": "t4g.2xlarge",
         "Database Engine": "Aurora PostgreSQL",
         "Model": "IOOptimized",
-        "Instance(Hrs)": "N/A",
-        "Disk(GB-Mo)": "0.2700000000",
-        "IOUsage(IOs)": "0"
+        "Instance(Hrs)": 0.0,
+        "Disk(GB-Mo)": 0.27,
+        "IOUsage(IOs)": 0.0
     }
 ]

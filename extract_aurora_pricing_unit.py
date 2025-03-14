@@ -27,21 +27,21 @@ if __name__ == "__main__":
             aurora_pricing = AWSAuroraPricing(database_engine=database_engine, region=region, instance_type=instance_type, model=model)            
             pricing_data = aurora_pricing.get_aurora_pricing()
             
-            instance = 0
-            disk = 0
-            iops = 0
+            instance = 0.0
+            disk = 0.0
+            iops = 0.0
             
             for price in pricing_data:
                 if price['billing_type'] == 'Instance':
-                    instance = price['price_per_unit']
+                    instance = float(price['price_per_unit']) if price['price_per_unit'] != 'N/A' else 0.0
                 elif price['billing_type'] == 'EBSVoulme' or price['billing_type'] == 'IOOptimized':
-                    disk = price['price_per_unit']
+                    disk = float(price['price_per_unit']) if price['price_per_unit'] != 'N/A' else 0.0
                 if price['billing_type'] == 'IOUsage':
-                    iops = price['price_per_unit']
+                    iops = float(price['price_per_unit']) if price['price_per_unit'] != 'N/A' else 0.0
             
             return row + [instance, disk, iops]
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
             results = list(executor.map(process_row, reader))
             
         for result in results:
@@ -55,6 +55,10 @@ data = []
 with open(csv_file_path, mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     for row in csv_reader:
+        # Convert the specific fields to float
+        row["Instance(Hrs)"] = float(row["Instance(Hrs)"])
+        row["Disk(GB-Mo)"] = float(row["Disk(GB-Mo)"])
+        row["IOUsage(IOs)"] = float(row["IOUsage(IOs)"])
         data.append(row)
 
 # Write the data to a JSON file
