@@ -12,15 +12,10 @@ regions = ["ap-northeast-1","ap-northeast-2","ap-northeast-3"]
 
 #r5, r6i, r6g, t3, t4g, r7
 instance_types = [
-    "db.t4g.micro","db.t4g.small","db.t4g.medium","db.t4g.large","db.t4g.xlarge","db.t4g.2xlarge",
-    "db.t3.micro","db.t3.small","db.t3.medium","db.t3.large","db.t3.xlarge","db.t3.2xlarge","db.r5.large",
-    "db.r5.xlarge","db.r5.2xlarge","db.r5.4xlarge","db.r5.8xlarge","db.r5.12xlarge","db.r5.16xlarge",
-    "db.r5.24xlarge","db.r6i.large","db.r6i.xlarge","db.r6i.2xlarge","db.r6i.4xlarge","db.r6i.8xlarge",
-    "db.r6i.12xlarge","db.r6i.16xlarge","db.r6i.24xlarge","db.r6i.32xlarge","db.r6g.large","db.r6g.xlarge",
-    "db.r6g.2xlarge","db.r6g.4xlarge","db.r6g.8xlarge","db.r6g.12xlarge","db.r6g.16xlarge","db.r7g.large",
-    "db.r7g.xlarge","db.r7g.2xlarge","db.r7g.4xlarge","db.r7g.8xlarge","db.r7g.12xlarge","db.r7g.16xlarge",
-    "db.r7i.large","db.r7i.xlarge","db.r7i.2xlarge","db.r7i.4xlarge","db.r7i.8xlarge","db.r7i.12xlarge","db.r7i.16xlarge",
-    
+"r7g.large","r7g.xlarge","r7g.2xlarge","r7g.4xlarge","r7g.8xlarge","r7g.12xlarge","r7g.16xlarge","r6g.large","r6g.xlarge","r6g.2xlarge","r6g.4xlarge","r6g.8xlarge","r6g.12xlarge",
+"r6g.16xlarge","r6i.large","r6i.xlarge","r6i.2xlarge","r6i.4xlarge","r6i.8xlarge","r6i.12xlarge","r6i.16xlarge","r6i.24xlarge","r6i.32xlarge","t3.nano",
+"t3.micro","t3.small","t3.medium","t3.large","t3.xlarge","t3.2xlarge","r5.large","r5.xlarge","r5.2xlarge","r5.4xlarge","r5.8xlarge","r5.12xlarge","r5.16xlarge","r5.24xlarge",
+"t4g.nano","t4g.micro","t4g.small","t4g.medium","t4g.large","t4g.xlarge","t4g.2xlarge"
 ]
 database_engines = ["Aurora MySQL", "Aurora PostgreSQL"]
 models = ["Standard", "IOOptimized"]

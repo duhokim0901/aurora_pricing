@@ -1,5 +1,7 @@
 import json
 import subprocess
+import uuid
+import os
 
 class AWSAuroraPricing:
     def __init__(self, database_engine=None, region=None, instance_type=None, model=None):
@@ -7,8 +9,6 @@ class AWSAuroraPricing:
         self.region = region
         self.instance_type = instance_type
         self.model = model
-        self.filter_file = "filter.json"
-        self.result_file = "result_filter.json"        
         self.volume_type = ""
         self.storage = ""    
         if self.model == "Standard" : 
@@ -19,10 +19,7 @@ class AWSAuroraPricing:
             self.volume_type = "IO Optimized-Aurora"                    
         self.billing_type = ""
 
-    #billing_type 은 Instance / IOUsage / EBSVoulme / IOOptimized 4가지로 분류함
-    #model 이 Standard 일 경우 Instance, IOUsage, EBSVoulme 인 billing_type을 추출해야함
-    #model 이 IOOptimized 일 경우 Instance, IOOptimized 인 billing_type을 추출해야함
-    def create_filter_json(self):
+    def create_filter_json(self, filter_file):
         """필터 JSON 파일 생성"""
         filter_data = []
 
@@ -89,10 +86,8 @@ class AWSAuroraPricing:
                     {"Type": "TERM_MATCH", "Field": "databaseEngine", "Value": self.database_engine}
                 ]
 
-
-        with open(self.filter_file, "w") as f:
+        with open(filter_file, "w") as f:
             json.dump(filter_data, f, indent=2)
-
 
     def extract_pricing_info(self, pricing_data):        
         """AWS JSON 데이터에서 가격 정보 추출 (Preview 항목 제외)"""
@@ -134,27 +129,30 @@ class AWSAuroraPricing:
             print(f"[-] JSON 파싱 오류: {e}")
             return None
 
-
     def get_aurora_pricing(self):
         pricing_result = []
         
         if self.model == "Standard":
             try:
-                #빌링 타입별 필터조건 생성
-                #빌링 타입 : Instance
+                # 고유한 파일명 생성
+                filter_file = f"filter_{uuid.uuid4()}.json"
+                result_file = f"result_filter_{uuid.uuid4()}.json"
+
+                # 빌링 타입별 필터조건 생성
+                # 빌링 타입 : Instance
                 self.billing_type = "Instance" #Instance / IOUsage / EBSVoulme
-                self.create_filter_json()                
+                self.create_filter_json(filter_file)                
                 
                 command = [
                     "aws", "pricing", "get-products",
                     "--service-code", "AmazonRDS",
                     "--region", "us-east-1",
-                    "--filters", f"file://{self.filter_file}"
+                    "--filters", f"file://{filter_file}"
                 ]
 
                 result = subprocess.run(command, capture_output=True, text=True, check=True)
 
-                with open(self.result_file, "w") as f:
+                with open(result_file, "w") as f:
                     f.write(result.stdout)
 
                 pricing_data = json.loads(result.stdout)
@@ -174,21 +172,20 @@ class AWSAuroraPricing:
                 
                 pricing_result.append(result_dict)            
 
-
-                #빌링 타입 : EBSVoulme
+                # 빌링 타입 : EBSVoulme
                 self.billing_type = "EBSVoulme" #Instance / IOUsage / EBSVoulme
-                self.create_filter_json()                
+                self.create_filter_json(filter_file)                
                 
                 command = [
                     "aws", "pricing", "get-products",
                     "--service-code", "AmazonRDS",
                     "--region", "us-east-1",
-                    "--filters", f"file://{self.filter_file}"
+                    "--filters", f"file://{filter_file}"
                 ]
 
                 result = subprocess.run(command, capture_output=True, text=True, check=True)
 
-                with open(self.result_file, "w") as f:
+                with open(result_file, "w") as f:
                     f.write(result.stdout)
 
                 pricing_data = json.loads(result.stdout)
@@ -208,21 +205,20 @@ class AWSAuroraPricing:
                 
                 pricing_result.append(result_dict)
 
-
-                #빌링 타입 : IOUsage
+                # 빌링 타입 : IOUsage
                 self.billing_type = "IOUsage" #Instance / IOUsage / EBSVoulme
-                self.create_filter_json()                
+                self.create_filter_json(filter_file)                
                 
                 command = [
                     "aws", "pricing", "get-products",
                     "--service-code", "AmazonRDS",
                     "--region", "us-east-1",
-                    "--filters", f"file://{self.filter_file}"
+                    "--filters", f"file://{filter_file}"
                 ]
 
                 result = subprocess.run(command, capture_output=True, text=True, check=True)
 
-                with open(self.result_file, "w") as f:
+                with open(result_file, "w") as f:
                     f.write(result.stdout)
 
                 pricing_data = json.loads(result.stdout)
@@ -241,6 +237,10 @@ class AWSAuroraPricing:
                 }  
                 
                 pricing_result.append(result_dict)
+
+                # 임시 파일 삭제
+                os.remove(filter_file)
+                os.remove(result_file)
 
                 return pricing_result
 
@@ -250,20 +250,24 @@ class AWSAuroraPricing:
         
         elif self.model == "IOOptimized":                           
             try:
-                #빌링 타입별 필터조건 생성
-                #빌링 타입 : Instance
+                # 고유한 파일명 생성
+                filter_file = f"filter_{uuid.uuid4()}.json"
+                result_file = f"result_filter_{uuid.uuid4()}.json"
+
+                # 빌링 타입별 필터조건 생성
+                # 빌링 타입 : Instance
                 self.billing_type = "Instance" #Instance / IOOptimized  
-                self.create_filter_json()
+                self.create_filter_json(filter_file)
                 command = [
                     "aws", "pricing", "get-products",
                     "--service-code", "AmazonRDS",
                     "--region", "us-east-1",
-                    "--filters", f"file://{self.filter_file}"
+                    "--filters", f"file://{filter_file}"
                 ]
 
                 result = subprocess.run(command, capture_output=True, text=True, check=True)
 
-                with open(self.result_file, "w") as f:
+                with open(result_file, "w") as f:
                     f.write(result.stdout)
 
                 pricing_data = json.loads(result.stdout)
@@ -283,19 +287,19 @@ class AWSAuroraPricing:
                 
                 pricing_result.append(result_dict)            
 
-                #빌링 타입 : IOOptimized
+                # 빌링 타입 : IOOptimized
                 self.billing_type = "IOOptimized" #Instance / IOOptimized  
-                self.create_filter_json()
+                self.create_filter_json(filter_file)
                 command = [
                     "aws", "pricing", "get-products",
                     "--service-code", "AmazonRDS",
                     "--region", "us-east-1",
-                    "--filters", f"file://{self.filter_file}"
+                    "--filters", f"file://{filter_file}"
                 ]
 
                 result = subprocess.run(command, capture_output=True, text=True, check=True)
 
-                with open(self.result_file, "w") as f:
+                with open(result_file, "w") as f:
                     f.write(result.stdout)
 
                 pricing_data = json.loads(result.stdout)
@@ -315,6 +319,10 @@ class AWSAuroraPricing:
                 
                 pricing_result.append(result_dict)  
                                 
+                # 임시 파일 삭제
+                os.remove(filter_file)
+                os.remove(result_file)
+
                 return pricing_result
 
             except subprocess.CalledProcessError as e:
